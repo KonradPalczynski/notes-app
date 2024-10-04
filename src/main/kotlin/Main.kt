@@ -2,6 +2,7 @@ import utils.readIntNotNull
 import java.lang.System.exit
 import utils.readIntNotNull
 import utils.readNextInt
+import io.github.oshai.kotlinlogging.KotlinLogging
 
 fun mainMenu() : Int {
 
@@ -36,25 +37,27 @@ fun runMenu() {
 }
 
 fun addNote(){
-    println("You chose Add Note")
+    logger.info { "addNote() function invoked" }
 }
 
 fun listNotes(){
-    println("You chose List Notes")
+    logger.info { "addNote() function invoked" }
 }
 
 fun updateNote(){
-    println("You chose Update Note")
+    logger.info { "addNote() function invoked" }
 }
 
 fun deleteNote(){
-    println("You chose Delete Note")
+    logger.info { "addNote() function invoked" }
 }
 
 fun exitApp(){
     println("Exiting...bye")
     exit(0)
 }
+
+private val logger = KotlinLogging.logger {}
 
 fun main() {
     runMenu()
