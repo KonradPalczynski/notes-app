@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05817a0d-4310-40fb-aa9e-8a031334ac76" name="Changes" comment="Implement UserInput utility for robust console IO">
+    <list default="true" id="05817a0d-4310-40fb-aa9e-8a031334ac76" name="Changes" comment="Add Logging capabilities to function calls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728052931106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Logging capabilities to function calls">
+      <option name="closed" value="true" />
+      <created>1728054983308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728054983308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,17 +116,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Write skeleton menu for Notes App" />
     <MESSAGE value="Implement UserInput utility for robust console IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement UserInput utility for robust console IO" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/build.gradle.kts</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Add Logging capabilities to function calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Logging capabilities to function calls" />
   </component>
 </project>

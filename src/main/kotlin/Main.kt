@@ -1,8 +1,6 @@
-import utils.readIntNotNull
 import java.lang.System.exit
-import utils.readIntNotNull
-import utils.readNextInt
 import io.github.oshai.kotlinlogging.KotlinLogging
+import utils.*
 
 fun mainMenu() : Int {
 
