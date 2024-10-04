@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05817a0d-4310-40fb-aa9e-8a031334ac76" name="Changes" comment="">
+    <list default="true" id="05817a0d-4310-40fb-aa9e-8a031334ac76" name="Changes" comment="Write skeleton menu for Notes App">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/utils/UserInput.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -17,6 +18,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +85,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728048770769</updated>
     </task>
+    <task id="LOCAL-00001" summary="Write skeleton menu for Notes App">
+      <option name="closed" value="true" />
+      <created>1728051050403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728051050403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Write skeleton menu for Notes App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write skeleton menu for Notes App" />
   </component>
 </project>
